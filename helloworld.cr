@@ -1,0 +1,37 @@
+#Core
+kirmg = print
+qmkfg = input
+a = "z"
+b = "y"
+c = "x"
+d = "w"
+e = "v"
+f = "u"
+g = "t"
+h = "s"
+i = "r"
+j = "q"
+k = "p"
+l = "o"
+m = "n"
+n = "m"
+o = "l"
+p = "k"
+q = "j"
+r = "i"
+s = "h"
+t = "g"
+u = "f"
+v = "e"
+w = "d"
+x = "c"
+y = "b"
+z = "a"
+yoz = " "
+xln = ","
+kvi = "."
+vcx = "!"
+xlo = ":"
+
+#Main program
+kirmg(s + v + o + o + l + xln + yoz + d + l + i + o + w + vcx)
